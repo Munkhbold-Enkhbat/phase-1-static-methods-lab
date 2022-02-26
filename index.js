@@ -18,7 +18,6 @@ class Formatter {
         return word
       }
     })  
-    let word = titleArr.join(' ')
-    return word
+    return titleArr.join(' ')
   }
 }
